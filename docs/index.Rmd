@@ -44,15 +44,15 @@ options(htmltools.dir.version = FALSE)
 * Started in September 2017 by Jenine Harris and Chelsea West 
 
 * 4 Meetups in 2017-2018, 5 Meetups in 2018-2019, and 5 planned for 2019-2020!
-    - **TODAY! Our 10th Meetup!** Graphics in Base R with Dr. Jo Etzel (WUSTL)
+    - **TODAY! Our 10th Meetup!** Graphics in Base R with **Dr. Jo Etzel** (WUSTL)
  
-    - Nov 12: Cleaning messy data in R with Crystal Louis (PRC) 
+    - Nov 12: Cleaning messy data in R with **Crystal Lewis** (PRC) 
 
-    - Feb 12: Introduction to R Shiny with Dr. Angelique Zeringue (Mercy Hospital) 
+    - Feb 12: Introduction to R Shiny with **Dr. Angelique Zeringue** (Mercy Hospital) 
 
-    - Mar 17: Qualitative analysis in R with Mary Painter (UMSL) 
+    - Mar 17: Qualitative analysis in R with **Mary Painter** (UMSL) 
 
-    - Apr 2: Making personal websites with blogdown with Dr. Dorris Scott (WUSTL)
+    - Apr 2: Making personal websites with blogdown with **Dr. Dorris Scott** (WUSTL)
     
 * RSVP on Meetup
 
